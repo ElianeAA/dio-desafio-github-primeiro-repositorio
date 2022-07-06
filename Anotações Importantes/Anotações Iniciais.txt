@@ -1,0 +1,18 @@
+INTRODUÇÃO AO GIT E AO GITHUB
+
+GIT
+- O GIT nos proporciona a viabilidade de aperfeiçoar algo que está sendo construído, passando do rascunho para o trabalho final com qualidade, operacionalizando várias versões, os códigos criados.
+- 
+- É um software pronto, criado em 2005, por Linus Torvads, o mesmo criador do Linux, que por sua vez, o desenvolveu de forma colaborativa, com várias pessoas trabalhando, o então, versionamento de códigos.
+
+- O GIT e o GITHUB não são a mesma, mas normalmente aparecem juntos, completando um ao outro. O GITHUB pertence à Microsoft.
+
+Beneficios de se ter as duas ferramentas:
+- controle de versão (atualização do código);
+- Armazenamento em nuvem (fácil acesso dos código);
+- Trabalho em equipe e assim, melhora continua do código (enriquecendo o trabalho com a contribuição das pessoas);
+- Reconhecimento do trabalho (pessoas estão vendo o trabalho construído)
+
+Também tem a característica de Navegação via Command Line Interface e Instalação, isto é, comandos básicos para um bom desempenho no terminal.
+
+O GIT possui designer diferenciado e linhas de comando
