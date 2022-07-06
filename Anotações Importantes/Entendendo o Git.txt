@@ -1,0 +1,11 @@
+Tópicos fundamentais da tecnologia para entender o funcionamenTo do GIT>
+
+-SHA1 - significa Secure Hash Algorithm (Algoritimo de Hash Seguro), sendo um conjunto de funções hash criptográficas poojetadas pela NSA (Agência de Segurança Nacional dos EUA). A encriptação gera o conjunto de caracteres identificador de 40 dígitos, se tornndo uma forma mcurta de representar um arquivo. Qualquer alteração realizada no arquivo, gera um novo conjunto de 40 caracteres.
+
+- Objetos fundamentais - BLOBS, TREES e COMMITS
+	BLOBS são bolhas e terão tipo, tamanho e conteúdo do arquivo em questão, isto é, metadados;
+	TREES são árvores e armazena os blobs, isto é, qual o seu tipo, contendo também, metadados. As 	trees se responsabilizam por toda a estrutura de onde estão os arquivos, sua localização.
+	COMMITS dá sentido às alterações e é o mais importante de todos, pois é o que vai juntar tudo para 	serem feitas as alterações. Os commits também possuem SHA1 (identificação). Se for alterado um 	dado em um blob, irá mudar tambpem os metadados.
+Qualquer alteração em um arquivo, mudará o SHA1, que mudará o BLOB, que mudará a TREE, que chegará ao COMMIT. Por isso, é tão seguro.
+
+- Sistema distribuído - segurança
