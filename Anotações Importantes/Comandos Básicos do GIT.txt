@@ -1,0 +1,14 @@
+O GIT possui comandos importantes para operá-lo.
+
+No Windows, os seguintes comandos executam:
+- cd - sair do diretório
+- dir - lista os arquivos ou pastas existentes no diretório / pasta
+- mkdir - cria arquivo no terminal
+- del - deleta arquivos
+- rmdir - deleta pastas
+- cd (nome do diretório): acessa o diretório
+- cd .. : retorna ao diretório anterior
+- cls - limpa a tela
+- tab - completa o nome das pastas
+
+Importante ressaltar que todos os comandos utilizados possuem varianças, isto é, possuem "flags" que passam pelos comandos que acrescentam / modificam / formatam a maneira que os comandos são devolvidos aos operadores.

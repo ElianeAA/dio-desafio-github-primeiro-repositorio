@@ -16,3 +16,5 @@ Beneficios de se ter as duas ferramentas:
 Também tem a característica de Navegação via Command Line Interface e Instalação, isto é, comandos básicos para um bom desempenho no terminal.
 
 O GIT possui designer diferenciado e linhas de comando
+
+- 
